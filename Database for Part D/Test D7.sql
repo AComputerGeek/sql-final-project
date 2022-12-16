@@ -1,0 +1,1 @@
+EXEC		sp_shipping_date '1993-11-29'

@@ -1,0 +1,2 @@
+SELECT Fax
+FROM Customers

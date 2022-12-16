@@ -1,0 +1,1 @@
+EXEC		sp_emp_info		7

@@ -1,0 +1,4 @@
+SELECT		*
+FROM			vw_order_cost
+WHERE		OrderID BETWEEN 10100 AND 10200
+ORDER BY		ProductID

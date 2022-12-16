@@ -1,0 +1,1 @@
+EXEC		sp_del_inactive_cust
